@@ -1,7 +1,12 @@
 # NH-stock-holding
 
-NH투자증권 빅데이터 경진대회 예선 과제  
-주식 종목별 보유기간 예측 모델 (LightGBM)
+NH투자증권 빅데이터 경진대회(2021) 예선 과제  
+주식 종목별 보유기간 예측 모델 (LightGBM
+
+https://dacon.io/en/competitions/official/235798/leaderboard
+
+<img width="800" height="" alt="image" src="https://github.com/user-attachments/assets/33172c08-354c-4b59-8a3b-8b54662aca15" />
+
 
 ## 프로젝트 개요
 본 프로젝트는 고객의 거래 이력과 시장 지표를 활용해  
@@ -57,10 +62,6 @@ NH투자증권 빅데이터 경진대회 예선 과제
 
 ## 비고
 - 본 저장소는 **대회 제출 코드 및 접근 방법을 정리한 포트폴리오용 저장소**입니다.
-
-https://dacon.io/en/competitions/official/235798/leaderboard
-
-<img width="800" height="" alt="image" src="https://github.com/user-attachments/assets/33172c08-354c-4b59-8a3b-8b54662aca15" />
 
 <img width="800" height="451" alt="image" src="https://github.com/user-attachments/assets/669f103e-6811-413a-91de-015a1877dcfd" />
 
