@@ -70,4 +70,8 @@ https://dacon.io/en/competitions/official/235798/leaderboard
 
 <img width="800" height="451" alt="image" src="https://github.com/user-attachments/assets/9151f9c3-82d1-4028-9224-b135feea1d6a" />
 
+<img width="800" height="451" alt="image" src="https://github.com/user-attachments/assets/09aae5fa-47dc-4ffe-b482-258920207675" />
+
+<img width="800" height="451" alt="image" src="https://github.com/user-attachments/assets/eec6e30d-2497-4f92-b0cb-f57bb9c62332" />
+
 
