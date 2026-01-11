@@ -5,7 +5,8 @@ NH투자증권 빅데이터 경진대회(2021) 예선 과제
 
 https://dacon.io/en/competitions/official/235798/leaderboard
 
-<img width="800" height="" alt="image" src="https://github.com/user-attachments/assets/33172c08-354c-4b59-8a3b-8b54662aca15" />
+<img width="800" height="" alt="image" src="https://github.com/user-attachments/assets/a4aaa990-2dcd-4caa-9220-9067940c5ab5" />
+<img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/bebee974-fab9-4646-a702-16d1f02a82f4" />
 
 
 ## 프로젝트 개요
